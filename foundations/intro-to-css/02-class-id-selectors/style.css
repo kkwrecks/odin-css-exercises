@@ -1,0 +1,19 @@
+.pink-sans{
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#no2{
+    color: blue;
+    font-size: 36px;
+}
+
+.font-sp{
+    font-size: 24px;
+}
+
+#no4{
+    background-color: rgb(154, 228, 154);
+    font-size: 24px;
+    font-weight: bold;
+}
