@@ -12,6 +12,37 @@ img {
   font-weight: 900;
 }
 
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  margin-top: 32px;
+  gap: 52px;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.content .card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  width: 300px;
+}
+
+.text {
+  width: 200px;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
